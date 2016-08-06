@@ -1,0 +1,39 @@
+_repo: Love-and-Mr.-Lewisham_11640
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "Love and Mr Lewisham is an 1900 novel set in the 1880s by H. G. Wells.\
+  \ It was among his first outside the science fiction genre. Wells took considerable\
+  \ pains over the manuscript and said of it that \"the writing was an altogether\
+  \ more serious undertaking than I have ever done before.\" He later included it\
+  \ in a 1933 anthology entitled Stories of Men and Women in Love.\n\n\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11640'
+  wikidata: Q4271834
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Spiritualists -- England -- Fiction'
+- GITenberg
+title: Love and Mr. Lewisham
+url: http://www.gutenberg.org/ebooks/11640
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C_%D0%B8_%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D1%8C%D1%8E%D0%B8%D1%88%D0%B5%D0%BC
+- https://en.wikipedia.org/wiki/Love_and_Mr_Lewisham
+- https://uk.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2_%D1%96_%D0%BC%D1%96%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D1%8C%D1%8E%D1%97%D1%88%D0%B5%D0%BC
